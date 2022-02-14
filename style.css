@@ -1,0 +1,93 @@
+body {
+  	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  	font-size: 20px;
+  	font-weight: 300;
+  	overflow-x: hidden;
+    background-color: #FFF8DC;
+}
+h1 {
+    text-align: center;
+    font-size: 2.3rem;
+    position: relative;
+    clear: both;
+}
+h2 {
+  text-align: center;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  clear: both;
+}
+h3 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  clear: both;
+}
+.image1 {
+  float: right;
+  width: 70%;
+  clear: both;
+}
+.radio {
+  padding: 40px;
+  text-align: center;
+}
+.section1 { margin-bottom: 60px; }
+.ul {
+  margin-right: 5px;
+  margin-bottom: -4px;
+}
+.p {
+  text-align: center;
+}
+.books {
+  text-align: center;
+}
+.button {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font size: 30px;
+}
+.genres {
+  text-align: left;
+}
+.submit {
+  background-color: #5C4033;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font size: 10px;
+}
+
+.navbar {
+  list-style-type: none;
+  padding: 0;
+}
+.carousel {
+  display: block;
+  margin: 0 auto;
+  width: 1600px;
+  height: auto;
+}
+
+.section1 {
+  clear: both;
+}
+.tm-nav-item-link.active {
+	color: #f4ef5e;
+}
